@@ -1,0 +1,3 @@
+# EldapError
+
+** TODO: Add description **
